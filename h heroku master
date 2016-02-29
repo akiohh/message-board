@@ -1,0 +1,71 @@
+[33mcommit 86e0ef912ab2e1392d3127c2261544ed1a8a461d[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Mon Feb 29 12:07:28 2016 +0000
+
+    Gemfile update for heroku
+
+[33mcommit 4783e35a2da7b063bb6bdfe8e134f2d3e4e5c107[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Mon Feb 29 10:46:53 2016 +0000
+
+    gemfilechange
+
+[33mcommit 8a9837b00e62843d3b5e9ce9d5735b3e657c027e[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Mon Feb 29 04:18:25 2016 +0000
+
+    destoroy is added
+
+[33mcommit 141de3c52c4f71e29bea5100cc9de57f337644e3[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Mon Feb 29 04:00:49 2016 +0000
+
+    edit display
+
+[33mcommit 16233ac90bbe0e36b75564b83c85ae58f6c9d438[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Sun Feb 28 13:12:08 2016 +0000
+
+    Implementation of the validation
+
+[33mcommit 57751c1d4fa5d50ef339a6f041e935960f02326b[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Sat Feb 27 10:47:52 2016 +0000
+
+    2nd commit to C1
+
+[33mcommit 5b29dba63b2644a92299d666d00920ed762c8bee[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Sat Feb 27 04:16:16 2016 +0000
+
+    branch firstcommit
+
+[33mcommit 406f9e1b5c6db7ba418c7e4d1e2b4df48149fa50[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Wed Feb 24 12:05:51 2016 +0000
+
+    using Bootstrap
+
+[33mcommit 052b17bbd243095c52878d047dc7ea98d6058a5e[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Tue Feb 23 11:21:24 2016 +0000
+
+    create message model
+
+[33mcommit 5888ff9bd49253ddaec7abb0be91f3209ad01503[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Tue Feb 23 10:41:40 2016 +0000
+
+    create message model
+
+[33mcommit c45103326a060cf703b7cd2ec836cf13384522eb[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Tue Feb 23 10:32:52 2016 +0000
+
+    create messages_controller
+
+[33mcommit 6e58ae6fcdf4a33b710c1a9569a09468bfd33c85[m
+Author: akio kimura <akiohh0630@yahoo.co.jp>
+Date:   Sun Feb 21 13:07:25 2016 +0000
+
+    1st commit
